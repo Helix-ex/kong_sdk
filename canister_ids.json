@@ -1,0 +1,44 @@
+{
+  "ckbtc_ckusdc_lp_ledger": {
+    "ic": "pyzjm-uiaaa-aaaar-qahua-cai"
+  },
+  "ckbtc_ledger": {
+    "ic": "nbnki-kyaaa-aaaal-ajf3q-cai"
+  },  
+  "cketh_ckusdc_lp_ledger": {
+    "ic": "oswlw-wyaaa-aaaar-qahta-cai"
+  },
+  "cketh_ledger": {
+    "ic": "mmdog-fqaaa-aaaal-ajf4a-cai"
+  },
+  "ckusdc_ledger": {
+    "ic": "6lv7q-cyaaa-aaaal-ajsiq-cai"
+  },
+  "ckusdt_ckusdc_lp_ledger": {
+    "ic": "o3vak-aqaaa-aaaar-qahsq-cai"
+  },
+  "ckusdt_ledger": {
+    "ic": "oosrh-byaaa-aaaar-qahra-cai"
+  },
+  "icp_ckusdc_lp_ledger": {
+    "ic": "o4ug6-niaaa-aaaar-qahsa-cai"
+  },
+  "icp_ledger": {
+    "ic": "nppha-riaaa-aaaal-ajf2q-cai"
+  },  
+  "kong_ckusdc_lp_ledger": {
+    "ic": "ovxnc-3aaaa-aaaar-qahtq-cai"
+  },
+  "kong_ledger": {
+    "ic": "ojtxt-maaaa-aaaar-qahrq-cai"
+  },
+  "kong_backend": {
+    "ic": "l4lgk-raaaa-aaaar-qahpq-cai"
+  },
+  "kong_frontend": {
+    "ic": "oaq4p-2iaaa-aaaar-qahqa-cai"
+  },
+  "kong_faucet": {
+    "ic": "ohr23-xqaaa-aaaar-qahqq-cai"
+  }
+}
